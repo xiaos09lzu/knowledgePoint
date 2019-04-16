@@ -1,0 +1,2 @@
+# knowledgePoint
+C++ point
